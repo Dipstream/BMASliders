@@ -22,7 +22,7 @@
  THE SOFTWARE.
  */
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 #import "BMARangeSlider.h"
 #import "BMARangeFormatter.h"
 #import "BMALabeledSliderConfiguring.h"

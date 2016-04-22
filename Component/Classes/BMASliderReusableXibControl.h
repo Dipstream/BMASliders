@@ -22,7 +22,7 @@
  THE SOFTWARE.
  */
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 /**
  *  Allows to reuse in XIBs / storyboards

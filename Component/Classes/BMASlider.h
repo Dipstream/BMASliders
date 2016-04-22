@@ -22,7 +22,7 @@
  THE SOFTWARE.
  */
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 #import "BMASliderStyling.h"
 
 @protocol BMASlider <NSObject>
